@@ -1,0 +1,14 @@
+/*Head image*/
+.head-image{
+    width: 50%;
+    margin: auto;
+    display: block;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align:center ;}
